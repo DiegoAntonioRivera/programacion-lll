@@ -7,4 +7,4 @@ num1 = int(input("intruduce el numero 1: "))
 num2 = int(input("intruduce el numero 2: "))
 
 #imprimir el resultado
-print(f"la suma de{num1} y {num2} es {suma(num1, num2)}")4
+print(f"la suma de{num1} y {num2} es {suma(num1, num2)}")
